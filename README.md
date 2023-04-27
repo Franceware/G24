@@ -1,5 +1,5 @@
 <h1> Work of Team 24 - SAD Project </h1>
 
-<h2> Framework: Spring Security </h2>
-<h2> Database: MySQL </h2>
-<h2> Crittografia: DBCrypto </h2>
+<h3> Framework: Spring Security </h3>
+<h3> Database: MySQL </h3>
+<h3> Crittografia: DBCrypto </h3>

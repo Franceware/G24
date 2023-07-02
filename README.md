@@ -9,6 +9,5 @@
 <br>
 <p> Questions: </p>
 <ul>
-  <li> Informazioni da aggiungere? Titolo di studio, ... </li>
   <li> Eventuali test da effettuare.</li>
 </ul>
